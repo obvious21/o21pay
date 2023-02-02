@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/assets/o21pay.gif" alt="O21Pay" border="0" height="300px"/>
+  <img src="./.github/assets/o21pay.gif" alt="O21Pay" border="0" />
 	<br/><br/>
       
 	### O21Pay-Components, Simple, Fast Payment.
