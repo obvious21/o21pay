@@ -10,13 +10,13 @@ O21Pay is an easy and secure payment service that requires no card or app to use
 Scan the QR code on the merchant site, select the currency of your choice, choose to offset your purchase and pay with your crypto wallet or banking app. It's that easy!
 
 <p align="center">
-  <img src="./.github/assets/o21pay-iphone.png" alt="" border="0" height="300px>
-  <img src="./.github/assets/1.png" alt="" border="0">
-  <img src="./.github/assets/2.png" alt="" border="0">
-  <img src="./.github/assets/3.png" alt="" border="0">
-  <img src="./.github/assets/4.png" alt="" border="0">
-  <img src="./.github/assets/5.png" alt="" border="0">
-  <img src="./.github/assets/6.png" alt="" border="0">
+  <img src="./.github/assets/o21pay-iphone.png" alt="" border="0" height="300px" />
+  <img src="./.github/assets/1.png" alt="" border="0" />
+  <img src="./.github/assets/2.png" alt="" border="0" />
+  <img src="./.github/assets/3.png" alt="" border="0" />
+  <img src="./.github/assets/4.png" alt="" border="0" />
+  <img src="./.github/assets/5.png" alt="" border="0" />
+  <img src="./.github/assets/6.png" alt="" border="0" />
 </p>
 
 -   No risk. No credit card required, no compromise on security, no risk of default payment
