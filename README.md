@@ -1,8 +1,7 @@
 <div align="center">
   <img src="./.github/assets/o21pay.gif" alt="O21Pay" border="0" />
-	<br/><br/>
-      
-	### O21Pay-Components, Simple, Fast Payment.
+	<br/><br/>      
+	O21Pay-Components, Simple, Fast Payment.
 </div>
 <br/>
 O21Pay is an easy and secure payment service that requires no card or app to use.
