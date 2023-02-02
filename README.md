@@ -1,7 +1,5 @@
 <div align="center">
-	<video autoplay="" playsinline="" muted="" loop="" width="100%" alt="O21Pay">
-        <source src="./.github/assets/o21pay.gif" type="video/mp4" >
-   </video>
+  <img src="./.github/assets/o21pay.gif" alt="O21Pay" border="0" height="300px"/>
 	<br/><br/>
       
 	### O21Pay-Components, Simple, Fast Payment.
