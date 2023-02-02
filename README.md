@@ -1,6 +1,6 @@
 <div align="center">
 	<video autoplay="" playsinline="" muted="" loop="" width="100%" alt="O21Pay">
-        <source src="./.github/assets/o21pay.mp4" type="video/mp4" >
+        <source src="./.github/assets/o21pay.gif" type="video/mp4" >
    </video>
 	<br/><br/>
       
@@ -21,32 +21,31 @@ Scan the QR code on the merchant site, select the currency of your choice, choos
   <img src="./.github/assets/6.png" alt="" border="0">
 </p>
 
-* No risk. No credit card required, no compromise on security, no risk of default payment
+-   No risk. No credit card required, no compromise on security, no risk of default payment
 
-* Any time. Instant payment
+-   Any time. Instant payment
 
-* Any device. Pay from a mobile application or website using a QR code
+-   Any device. Pay from a mobile application or website using a QR code
 
-* Any wallet
-We support bank accounts and crypto-currency wallets
+-   Any wallet
+    We support bank accounts and crypto-currency wallets
 
-* Any medium. Reach a large number of customers, an audience with an appetite for cryptography and the environment.
+-   Any medium. Reach a large number of customers, an audience with an appetite for cryptography and the environment.
 
-* No setup fees and no monthly minimums
+-   No setup fees and no monthly minimums
 
-* Trade History. View and download your transaction history
+-   Trade History. View and download your transaction history
 
-* Offer your customers to pay in any currency. and get paid in any currency.
+-   Offer your customers to pay in any currency. and get paid in any currency.
 
-* Substainable purchase. Offer your customers to offset the CO2 emissions linked to their purchase
+-   Substainable purchase. Offer your customers to offset the CO2 emissions linked to their purchase
 
-* Anywhere
-Global payment access
+-   Anywhere
+    Global payment access
 
-* Any wallet
-We support bank accounts and crypto-currency wallets
+-   Any wallet
+    We support bank accounts and crypto-currency wallets
 
-* Any medium. Reach a large number of customers, an audience with an appetite for cryptography and the environment.
+-   Any medium. Reach a large number of customers, an audience with an appetite for cryptography and the environment.
 
-
-## 
+##
